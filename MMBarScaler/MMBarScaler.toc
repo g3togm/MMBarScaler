@@ -1,0 +1,8 @@
+## Interface: 11506, 11505
+## Title: MMBarScaler
+## Version: v1.2.10
+## Notes: Allows you to scale the Main Menu Bar with a slash command and a GUI slider.
+## Author: nerfsap
+## SavedVariables: MMBarScalerDB
+
+MMBarScaler.lua
